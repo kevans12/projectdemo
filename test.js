@@ -1,0 +1,1 @@
+var new = 'new variable';
